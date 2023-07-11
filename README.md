@@ -1,7 +1,6 @@
 # azure-resume
 My own azure resume
 
-
 ## First steps
 
 - Fronend Folder contains the website.
